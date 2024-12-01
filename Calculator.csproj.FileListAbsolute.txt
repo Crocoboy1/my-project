@@ -1,0 +1,11 @@
+C:\manalo\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\manalo\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\manalo\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\manalo\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\manalo\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\manalo\Calculator\Calculator\obj\Debug\Calculator.tn.resources
+C:\manalo\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\manalo\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\manalo\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\manalo\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\manalo\Calculator\Calculator\obj\Debug\Calculator.pdb
